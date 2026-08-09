@@ -6,21 +6,23 @@ This demo uses a fictional Microsoft Fake Company created for demonstration purp
 
 ## Purpose
 
-This folder is the simple delivery-specific run sheet for the Intro to Copilot session.
+This folder supports a 60-minute Intro to Copilot delivery with multiple realistic industry work documents.
 
-## What to use
+## Required local artifacts
 
-- Presenter-supplied PPTX from the trainer.
-- Repository prompt file: ../prompts/intro-to-copilot-prompts.md.
-- Fictional sample data: ../sample-data/briefing.csv.
-
-## GCC reminder
-
-Do not demonstrate live Copilot in a GCC tenant if Copilot is not available. Use this folder to remember what the experience would look like and what not to show.
+- ../artifacts/work-documents/intro-to-copilot-industry-brief.docx
+- ../artifacts/work-documents/intro-to-copilot-readiness-workbook.xlsx
+- ../artifacts/work-documents/intro-to-copilot-executive-briefing.pptx
+- ../DEMO-INSTRUCTIONS.md
+- ../DEMO-INSTRUCTIONS.docx
 
 ## Session focus
 
-Copilot fundamentals, prompt basics, safe use, and value framing.
+Copilot fundamentals, prompt patterns, grounding on work content, and safe review habits.
+
+## GCC reminder
+
+Do not demonstrate live Copilot in a GCC tenant if Copilot is not available. Narrate what the commercial Copilot-enabled tenant experience would look like and avoid showing unavailable capabilities.
 
 ## Unsupported for this delivery
 
