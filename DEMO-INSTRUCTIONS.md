@@ -86,3 +86,12 @@ Summarize the key priorities in this internal operations briefing and suggest th
 ## Cleanup
 
 Remove any local copies of presenter-provided PPTX files if they contain non-public delivery materials. Keep this repository public-safe only.
+
+## GitHub download links
+
+- [Repository README](https://github.com/AndrewConniff/copilot-energy-gcc-intro-to-copilot/blob/main/README.md)
+- [Manifest](https://github.com/AndrewConniff/copilot-energy-gcc-intro-to-copilot/blob/main/manifest.json)
+- [AI content declaration](https://github.com/AndrewConniff/copilot-energy-gcc-intro-to-copilot/blob/main/AI-CONTENT-DECLARATION.md)
+- [PPTX drop instructions](https://github.com/AndrewConniff/copilot-energy-gcc-intro-to-copilot/blob/main/artifacts/PPTX-DROP-INSTRUCTIONS.md)
+- [Environment checklist](https://github.com/AndrewConniff/copilot-energy-gcc-intro-to-copilot/blob/main/setup/environment-checklist.md)
+
